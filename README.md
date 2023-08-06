@@ -9,3 +9,6 @@ GNN-contains GNN and GCN model applied on molecular data and Planetoid data avai
 MNIST-CNN model for digit identification
 
 NetworkX-contains some networkx x tutorials
+
+GAT-Contains GAT model applied on CORA datasets
+
